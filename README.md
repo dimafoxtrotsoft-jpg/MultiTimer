@@ -1,3 +1,4 @@
+<img width="749" height="669" alt="screen" src="https://github.com/user-attachments/assets/a97c311f-1e86-40d9-ac5b-9771418ffd9c" />
 ⏱ MultiTimer — мульти-таймер для игр и работы
 MultiTimer — компактный десктопный таймер для геймеров, стримеров и всех, кому нужно вести несколько отсчётов времени одновременно.
 
